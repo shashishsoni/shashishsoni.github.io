@@ -1,0 +1,81 @@
+
+  inline-size: 50vmin;
+  block-size: 50vmin;
+  border: 5vmin solid hsl(100 100% 60%);
+  border-image-slice: 1;
+  
+  /*  leverage cascade for cross-browser gradients  */
+  /* border-image-source: linear-gradient(
+    hsl(100 100% 60%),
+    50%,
+    hsl(200 100% 60%)
+  ); */
+  border-image-source: radial-gradient(
+    hsl(100 100% 60%),
+    75%,
+    hsl(200 100% 60%)
+  );
+  border-image-source: conic-gradient(
+    hsl(100 100% 60%), 
+    hsl(200 100% 60%),
+    hsl(100 100% 60%)
+  );
+  display: grid;
+  place-content: center;
+  padding: 4ch;
+  box-sizing: border-box;
+  font-size: 10vmin;
+
+  inlin
+  inline-size: 50vmin;
+  block-size: 50vmin;
+  border: 5vmin solid hsl(100 100% 60%);
+  border-image-slice: 1;
+  
+  /*  leverage cascade for cross-browser gradients  */
+  border-image-source: linear-gradient(
+    hsl(100 100% 60%),
+    50%,
+    hsl(200 100% 60%)
+  );
+  border-image-source: radial-gradient(
+    hsl(100 100% 60%),
+    75%,
+    hsl(200 100% 60%)
+  );
+  border-image-source: conic-gradient(
+    hsl(100 100% 60%), 
+    hsl(200 100% 60%),
+    hsl(100 100% 60%)
+  );
+  display: grid;
+  place-content: center;
+  padding: 4ch;
+  box-sizing: border-box;
+  font-size: 10vmin;
+  inline-size: 50vmin;
+  block-size: 50vmin;
+  border: 5vmin solid hsl(100 100% 60%);
+  border-image-slice: 1;
+  
+  /*  leverage cascade for cross-browser gradients  */
+  /* border-image-source: linear-gradient(
+    hsl(100 100% 60%),
+    50%,
+    hsl(200 100% 60%)
+  ); */
+  border-image-source: radial-gradient(
+    hsl(100 100% 60%),
+    75%,
+    hsl(200 100% 60%)
+  );
+  border-image-source: conic-gradient(
+    hsl(100 100% 60%), 
+    hsl(200 100% 60%),
+    hsl(100 100% 60%)
+  );
+  display: grid;
+  place-content: center;
+  padding: 4ch;
+  box-sizing: border-box;
+  font-size: 10vmin;
